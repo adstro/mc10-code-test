@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeTest</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_dialog_bluetooth_disabled">Bluetooth Disabled</string>
+    <string name="message_dialog_bluetooth_disabled">Bluetooth is disabled, you will be logged out</string>
+    <string name="message_dialog_error">Could not load studies</string>
+    <string name="message_dialog_login_error">Could not log in</string>
+</resources>
